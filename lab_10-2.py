@@ -3,7 +3,7 @@
 listy = []
 
 while True:
-    num = int(input('number pls: '))
+    num = int(input('number please: '))
     if num%3 == 1:
         continue
     elif num == -1:
